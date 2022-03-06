@@ -3,7 +3,7 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "jsx": "preserve",
-    "jsxImportSource": "solid-js"
+    "jsxImportSource": "react"
   },
   "include": [
     "src/**/*"

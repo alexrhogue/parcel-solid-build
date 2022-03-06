@@ -1,6 +1,6 @@
-import { render } from "solid-js/web";
+import ReactDOM from 'react-dom'
 
 const App = () => <div>Hii</div>;
 
-render(<App />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
 
